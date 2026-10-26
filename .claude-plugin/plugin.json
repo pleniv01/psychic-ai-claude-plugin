@@ -1,0 +1,15 @@
+{
+  "name": "psychic-ai-tarot",
+  "displayName": "Psychic.ai Tarot",
+  "version": "0.1.0",
+  "description": "Tarot for questions worth exploring: interpret your cards, consider another angle, and continue with Psychic.ai's visual spreads.",
+  "author": { "name": "Psychic.ai", "url": "https://psychic.ai" },
+  "homepage": "https://psychic.ai",
+  "repository": "https://github.com/pleniv01/psychic-ai-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/pleniv01/psychic-ai-claude-plugin/blob/main/PRIVACY.md",
+  "documentationUrl": "https://github.com/pleniv01/psychic-ai-claude-plugin#readme",
+  "supportUrl": "https://psychic.ai/contact",
+  "termsOfServiceUrl": "https://psychic.ai/terms",
+  "keywords": ["tarot", "reflection", "symbolism", "card-readings"]
+}
