@@ -49,7 +49,7 @@ This repository is a submission candidate; it does not claim directory approval.
 
 ## Data and connections
 
-The package contains instructions and documentation only. It has no MCP server,
+The package contains instructions, documentation and a listing icon only. It has no MCP server,
 executable code, hooks, package dependencies, account access, telemetry or
 publisher-side storage. It does not send questions, cards or conversations to
 Psychic.ai, retrieve saved readings, take payments or call the site's reading
