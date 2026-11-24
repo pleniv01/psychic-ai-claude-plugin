@@ -1,5 +1,7 @@
 # Psychic.ai Claude plugin privacy
 
+Operated by [Post Hoc Labs](https://posthoc.me), a registered Maine DBA. Product names and support addresses remain unchanged.
+
 Updated October 26, 2026. Publisher: Psychic.ai, operated by Post Hoc Labs.
 
 This notice covers this skills-only plugin, not every service available on the

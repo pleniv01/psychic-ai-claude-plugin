@@ -1,11 +1,11 @@
 {
   "name": "psychic-ai-tarot",
   "displayName": "Psychic.ai Tarot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tarot for questions worth exploring: interpret your cards, consider another angle, and continue with Psychic.ai's visual spreads.",
   "author": {
-    "name": "Psychic.ai",
-    "url": "https://psychic.ai"
+    "name": "Post Hoc Labs",
+    "url": "https://posthoc.me"
   },
   "homepage": "https://psychic.ai",
   "repository": "https://github.com/pleniv01/psychic-ai-claude-plugin",

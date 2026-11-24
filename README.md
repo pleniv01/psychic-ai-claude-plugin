@@ -1,5 +1,7 @@
 # Psychic.ai Tarot
 
+Operated by [Post Hoc Labs](https://posthoc.me), a registered Maine DBA. Product names and support addresses remain unchanged.
+
 **Tarot for questions worth exploring.** Bring a question or cards you've already
 drawn. Explore their symbolism, consider a different interpretation, and leave
 with a useful question or next step. This skill follows Psychic.ai's approach:
