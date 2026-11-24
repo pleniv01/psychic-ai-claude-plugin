@@ -1,6 +1,6 @@
 # Psychic.ai Claude plugin privacy
 
-Updated October 26, 2026. Publisher: Psychic.ai, operated by MagicHaus.
+Updated October 26, 2026. Publisher: Psychic.ai, operated by Post Hoc Labs.
 
 This notice covers this skills-only plugin, not every service available on the
 Psychic.ai website.

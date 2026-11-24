@@ -68,7 +68,7 @@ no additional connector or hidden data transmission is included.
 [Plugin privacy](PRIVACY.md) · [Website privacy](https://psychic.ai/privacy) ·
 [Terms](https://psychic.ai/terms) · [Contact](https://psychic.ai/contact).
 
-Psychic.ai is operated by MagicHaus. This integration is independent of Anthropic.
+Psychic.ai is operated by Post Hoc Labs. This integration is independent of Anthropic.
 It is intended for adults, not users under 18. Symbolic readings do not establish
 facts, diagnose conditions, predict outcomes or substitute for urgent support.
 The name identifies our own website at https://psychic.ai, not an affiliation with
